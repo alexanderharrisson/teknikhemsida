@@ -1,0 +1,105 @@
+ body{
+ 	
+ }
+.klass{
+	box-shadow: 0px 0px 10px 10px lightgrey;
+	width: 500px;
+	margin-left: 50px;
+}
+.klass1{
+	box-shadow: 0px 0px 10px 10px lightgrey;
+	width: 400px;
+	margin-left: 600px;
+	}
+.klass2{
+	box-shadow: 0px 0px 10px 10px lightgrey;
+	width: 500px;
+	margin-left: 35px;
+	margin-top: 20px;
+	}
+
+.navbar-nav{
+	
+	padding-left: 100px;
+	}
+
+.container{
+	color:  #336699;
+	padding-left: 400px;
+	padding-top: 20px;
+
+	
+}
+.container1{
+	color: black;
+	width: 450px;
+	margin-left: 400px;
+	margin-top: 50px;
+	
+}
+.nav-item{
+	padding-right: 40px;
+}
+.container{
+	padding-top: 30px;
+	padding-left: 60px;
+
+}
+.text1{
+
+}
+.bild{
+width: 40px;
+height: 40px;
+}
+.bild1{
+    
+    padding-top: 30px;
+	padding-left: 100px;
+}
+.inriktningar{
+	float: middle;
+	padding-left: 500px;
+	padding-top: 300px;
+}
+.inriktningar1{
+	color: white;
+    padding-left: 50px;
+	
+}
+.design{
+	box-shadow: 0px 0px 10px 10px lightgrey;
+	color: black;
+	margin-left: 50px;
+	width: 400px;
+	margin-top: 100px;
+}
+.IT{
+	box-shadow: 0px 0px 10px 10px lightgrey;
+    color: black;
+	margin-left: 500px;
+	width: 500px;
+	margin-top: 100px;
+	
+}
+.PT{
+	box-shadow: 0px 0px 10px 10px lightgrey;
+    color: black;
+	margin-left: 50px;
+	width: 400px;
+	margin-top: 30px
+}
+.TEKNIK{
+	box-shadow: 0px 0px 10px 10px lightgrey;
+    color: black;
+	margin-left: 500px;
+	width: 400px;
+	margin-top: 30px;
+}
+.socialamedier{
+	margin-top: 140px;
+	margin-left: 390px;
+}
+.socialamedier2{
+	
+}
